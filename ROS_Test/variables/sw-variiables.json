@@ -5,7 +5,7 @@
       "_sys_serial": "SG02KN110B", 
       "ap_vlan": "vlan 42 \nvlan 100 \n", 
       "gw_ip": "10.6.7.1", 
-      "hostname": "Automation-Central-02", 
+      "hostname": "Automation_Central-02", 
       "int_vlan_1": "interface vlan 1 \n ! ip dhcp is ignored when static ip is configured \nip address 192.168.0.116/24 \nip dhcp", 
       "mgmt_ip": "10.6.7.32/24"
     }
