@@ -14,7 +14,6 @@ vlan 1
 %ap_vlan%
 %endif%
 
-
 spanning-tree
 interface mgmt
     no shutdown
