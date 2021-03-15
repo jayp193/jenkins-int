@@ -1,0 +1,12 @@
+
+{
+    "SG02KN110B": {
+      "_sys_hostname": "Automation-Central-02", 
+      "_sys_lan_mac": "10:4f:58:f5:a7:40", 
+      "_sys_serial": "SG02KN110B", 
+      "ap_vlan": "vlan 42 \nvlan 100 \n", 
+      "gw_ip": "10.6.7.1", 
+      "hostname": "Automation-Central-02", 
+      "int_vlan_1": "interface vlan 1 \n ! ip dhcp is ignored when static ip is configured \nip address 192.168.0.116/24 \nip dhcp", 
+      "mgmt_ip": "10.6.7.32/24"
+    }
