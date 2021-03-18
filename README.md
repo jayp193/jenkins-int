@@ -1,7 +1,15 @@
 # SCM for Device Configurations on Aruba Central
 This is source repository holding all the configuration templates and variable files for Aruba Access Points and CX Swtiches on a per-group basis.
 Directory Structure:
-
+    .
+    ├── ...
+    ├── Group                    # Documentation files (alternatively `doc`)
+    │   ├── templates 
+            |
+            # Table of contents
+    │   ├── variables             # Frequently asked questions
+    │              # etc.
+    └── ...
     ```bash
 ├── Group
 │   ├── templates
